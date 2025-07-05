@@ -11,3 +11,6 @@ website:  https://gouthamchoudary.github.io/critter/index.html
 
 ## Analytics
 ![image](https://github.com/user-attachments/assets/e61e94d5-88cc-417e-b1fd-9a11e0fede4d)
+
+## Video Hub
+![image](https://github.com/user-attachments/assets/e5b64208-8585-44aa-b0b4-bd1292f6e5fe)

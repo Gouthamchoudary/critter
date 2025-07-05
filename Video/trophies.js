@@ -3,10 +3,10 @@ const ctx = document.getElementById("myChart");
 new Chart(ctx, {
   type: "doughnut",
   data: {
-    labels: ["CSK","MI" ,"RR", "Deccan", "KKR", "SRH", "GT"],
+    labels: ["RCB","CSK","MI" ,"RR", "Deccan", "KKR", "SRH", "GT"],
     datasets: [
       {
-        data: [5,5 , 1, 1, 2, 1, 1],
+        data: [1,5,5 , 1, 1, 2, 1, 1],
         borderWidth: 1,
       },
     ],
